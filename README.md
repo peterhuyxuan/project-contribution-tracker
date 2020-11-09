@@ -6,7 +6,7 @@ Modified from the original tutorial:
 
 https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
 
-**If you're coding along to the workshop and can't keep up**
+***If you're coding along to the workshop and can't keep up***
 
 Check if NodeJS works on your system that displays the version you're using via the following command
 
@@ -134,7 +134,7 @@ npm start
 
 Open on http://localhost:3000/
 
-**If you want to run the completed program**
+***If you want to run the completed program***
 
 Installation:
 
