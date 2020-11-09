@@ -114,7 +114,7 @@ nodemon server
 
 Frontend:
 
-7. /src/App.js
+7. /src/App.js (You can also edit the title of your web page via /public/index.html)
 
 8. /src/components/Navbar.js
 
