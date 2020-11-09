@@ -35,7 +35,7 @@ npm i -g npx
 If you are using **Linux** or **Mac** OS and you get permission related errors use "sudo" before all npm commands
 
 ```
-sudo npm *(any subsequent command)
+sudo npm (or npx) *(any subsequent command)
 ```
 
 Install the React folder into your directory
@@ -59,13 +59,13 @@ npm install axios bootstrap react-datepicker react-router-dom
 Whilst waiting for the dependencies to install, open a new terminal create your backend folder inside your React folder
 
 ```
-mkdir *(backend)
+mkdir backend
 ```
 
-Create your backend folder
+Enter your backend folder
 
 ```
-mkdir *(backend)
+cd backend
 ```
 
 Create your package.json file in your backend folder
